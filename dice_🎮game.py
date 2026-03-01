@@ -3,7 +3,7 @@ import pyttsx3
 n=int(input("enter game round number =="))
 player_name=input("enter player name==")
 engine =pyttsx3.init()
-engine.setProperty('rate', 80) 
+engine.setProperty('rate', 10) 
 voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[1].id)
 used_number=set()
