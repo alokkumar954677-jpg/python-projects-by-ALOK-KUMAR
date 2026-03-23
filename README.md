@@ -54,7 +54,7 @@ python tasks_app_management.py
 ```
 
 ---
-
+https://github.com/user-attachments/assets/ddddf468-857d-4fdb-a94f-27ff347ff46c
 ### 4️⃣ Student Performance Dashboard 📊 (Matplotlib)
 📁 File: student_dashboard.py  
 
